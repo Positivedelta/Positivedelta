@@ -1,1 +1,3 @@
 Electronics, Software, Physics, Helicopters, Fixing Things...
+
+Hopefully the projects in my repository are interesting and useful, please get in touch if you have any questions
